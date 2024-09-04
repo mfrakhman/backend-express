@@ -1,9 +1,11 @@
 {
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "express": "^4.19.2",
     "knex": "^3.1.0",
     "node": "^18.20.4",
-    "pg": "^8.12.0"
+    "pg": "^8.12.0",
+    "vercel": "^34.3.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
